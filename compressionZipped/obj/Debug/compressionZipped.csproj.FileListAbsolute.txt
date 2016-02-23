@@ -1,0 +1,1 @@
+H:\GameToolsPipelines\compressionZipped\compressionZipped\bin\Debug\compressionZipped.exe.config
