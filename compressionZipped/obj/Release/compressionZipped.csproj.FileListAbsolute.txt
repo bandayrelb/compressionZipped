@@ -13,3 +13,6 @@ E:\AIStuff\GameToolsPipelines\compressionZipped\compressionZipped\obj\Release\co
 E:\AIStuff\GameToolsPipelines\compressionZipped\compressionZipped\bin\Release\compressionZipped.exe
 E:\AIStuff\GameToolsPipelines\compressionZipped\compressionZipped\bin\Release\compressionZipped.pdb
 E:\AIStuff\GameToolsPipelines\compressionZipped\compressionZipped\obj\Release\compressionZipped.csprojResolveAssemblyReference.cache
+F:\AIStuff\GameToolsPipelines\compressionZipped\compressionZipped\bin\Release\compressionZipped.exe
+F:\AIStuff\GameToolsPipelines\compressionZipped\compressionZipped\bin\Release\compressionZipped.pdb
+F:\AIStuff\GameToolsPipelines\compressionZipped\compressionZipped\obj\Release\compressionZipped.csprojResolveAssemblyReference.cache

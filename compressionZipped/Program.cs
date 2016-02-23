@@ -52,10 +52,10 @@ namespace compressionZipped
     {
         static void Main( string[] args )
         {
-            string startPath = @"E:\AIStuff\GameToolsPipelines\CompressThis";
-            string zipPath = @"E:\AIStuff\GameToolsPipelines\CompressThis.zip";
-            string extractPath = @"E:\AIStuff\GameToolsPipelines\CompressThisUnzipped";
-            string tempFolder = @"E:\AIStuff\GameToolsPipelines\temp";
+            string startPath = @"F:\AIStuff\GameToolsPipelines\CompressThis";
+            string zipPath = @"F:\AIStuff\GameToolsPipelines\CompressThis.zip";
+            string extractPath = @"F:\AIStuff\GameToolsPipelines\CompressThisUnzipped";
+            string tempFolder = @"F:\AIStuff\GameToolsPipelines\temp";
             string filter;
             string userPath;
 
